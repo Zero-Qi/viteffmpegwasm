@@ -3,6 +3,7 @@
 这个模板能够帮助你在前端实现ffmpeg解码功能
 
 生产环境需要设置https + 请求头设置
+
 res.setHeader("Cross-Origin-Opener-Policy", "same-origin");
 res.setHeader("Cross-Origin-Embedder-Policy", "require-corp");
 
