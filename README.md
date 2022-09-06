@@ -20,3 +20,5 @@ npm run dev
 
 ffmpeg api docs address
 参考资料：https://github.com/ffmpegwasm/ffmpeg.wasm/blob/master/docs/api.md
+
+希望能帮助到你~
